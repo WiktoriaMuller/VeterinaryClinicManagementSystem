@@ -1,0 +1,37 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "ccfd2486-e40a-11ef-83a1-bb5c9505d058",
+  "appTemplate": {
+    "appThemeId": "custom",
+    "pageCodeFolders": {
+      "object": {
+        "landingPage": {
+          "array": []
+        },
+        "visitsPage": {
+          "array": []
+        },
+        "petsPage": {
+          "array": []
+        },
+        "addPetForm": {
+          "array": []
+        },
+        "addVisitForm": {
+          "array": []
+        },
+        "employeesPage": {
+          "array": []
+        },
+        "addVetForm": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "visitsPage",
+    "appThemeName": "Custom app theme",
+    "version": "3.156.0",
+    "experimentalDataTabEnabled": true
+  }
+}
